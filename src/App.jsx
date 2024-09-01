@@ -15,7 +15,9 @@ function App() {
         style={{
           border: `2px solid ${hex}`,
         }}
-        className="flex flex-col  items-center justify-between w-[50vw] h-[50vh] rounded-[0.8rem]"
+        className={`flex flex-col    items-center justify-between w-[50vw] h-[50vh] rounded-[0.8rem] 
+         
+        }`}
       >
         <input
           style={{
